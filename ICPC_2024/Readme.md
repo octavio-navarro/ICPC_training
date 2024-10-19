@@ -4,15 +4,15 @@
 
 | Problema | Solucionado | Comentarios |
 | -------- | ----------- | ----------- |
-| AAEGGLNUAAEGGLNU | [ ] | |
+| AAEGGLNUAAEGGLNU | [Nicolas ] | |
 | Best tests | [ ] | |
-| Conner Reading Session | [ ] | |
+| Conner Reading Session | [Nicolas ] | |
 | Dance of Ferrets | [ ] | |
 | Expected Closest Friend | [ ] | |
-| Fair Toy Missing | [ ] | |
+| Fair Toy Missing | [Nicolas ] | |
 | GCDland Mystical Arrays | [ ] | |
 | Hidden Treasure of Arrayland | [ ] | |
 | standard input/output | [ ] | |
 | Impossible Octagon Filling | [ ] | |
 | Just Deer Cookies | [ ] | |
-| Kitchen Closing | [ ] | |
+| Kitchen Closing | [Nicolas ] | |
