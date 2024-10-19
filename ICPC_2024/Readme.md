@@ -9,10 +9,10 @@
 | Conner Reading Session | [ ] | |
 | Dance of Ferrets | [ ] | |
 | Expected Closest Friend | [ ] | |
-| Fair Toy Missing | [ ] | |
+| Fair Toy Missing | [ X ] | |
 | GCDland Mystical Arrays | [ ] | |
 | Hidden Treasure of Arrayland | [ ] | |
 | standard input/output | [ ] | |
 | Impossible Octagon Filling | [ ] | |
 | Just Deer Cookies | [ ] | |
-| Kitchen Closing | [ ] | |
+| Kitchen Closing | [ X ] | |
