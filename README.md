@@ -8,7 +8,7 @@ Repositorio para guardar soluciones de ICPC
 |--- | --- | --- | --- |
 | Tomas | 17:50 | | | 
 | Mario | 11:03 | | |
-| Nicolar | 8:20 | | |
+| Nicolas | 8:20 | | |
 | Salvador | 30:00 | | | 
 | Diego | 13:18 | | |
 | Santiago | | | |
