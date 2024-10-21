@@ -2,6 +2,17 @@
 
 Repositorio para guardar soluciones de ICPC
 
+## Leaderboard
+
+| Nombre | Binary search | Time |
+|--- | --- | --- |
+| Tomas | | |
+| Mario | | |
+| Nicolar | | |
+| Salvador | | |
+| Diego | | |
+| Santiago | | |
+
 ## Soluciones a concursos
 
 - [ICPC 2024 - Repechaje](./ICPC_2024/Readme.md)
