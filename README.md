@@ -6,11 +6,11 @@ Repositorio para guardar soluciones de ICPC
 
 | Nombre | Binary search | BFS | DFS |
 |--- | --- | --- | --- |
-| Tomas | | | | 
-| Mario | | | |
-| Nicolar | | | |
-| Salvador | | | | 
-| Diego | | | |
+| Tomas | 17:50 | | | 
+| Mario | 11:03 | | |
+| Nicolar | 8:20 | | |
+| Salvador | 30:00 | | | 
+| Diego | 13:18 | | |
 | Santiago | | | |
 
 ## Soluciones a concursos
