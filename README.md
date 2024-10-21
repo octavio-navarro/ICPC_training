@@ -4,14 +4,14 @@ Repositorio para guardar soluciones de ICPC
 
 ## Leaderboard
 
-| Nombre | Binary search | Time |
-|--- | --- | --- |
-| Tomas | | |
-| Mario | | |
-| Nicolar | | |
-| Salvador | | |
-| Diego | | |
-| Santiago | | |
+| Nombre | Binary search | BFS | DFS |
+|--- | --- | --- | --- |
+| Tomas | | | | 
+| Mario | | | |
+| Nicolar | | | |
+| Salvador | | | | 
+| Diego | | | |
+| Santiago | | | |
 
 ## Soluciones a concursos
 
