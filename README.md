@@ -6,10 +6,10 @@ Repositorio para guardar soluciones de ICPC
 
 | Nombre | Binary search | BFS | DFS |
 |--- | --- | --- | --- |
-| Tomas | 3:41 | | 30:00 |  
-| Mario | 11:03 | | |
-| Nicolas | 2:05 | | 30:00 | 
-| Salvador | 30:00 | | | 
+| Tomas | 3:41 | 5:00 | 30:00 |  
+| Mario | 2:00 | 30:00 | 30:00 |
+| Nicolas | 2:05 | 12:00 | 30:00 | 
+| Salvador | 6:00 | 30:00 | 30:00 | 
 | Diego | 13:18 | | |
 | Santiago | | | |
 
