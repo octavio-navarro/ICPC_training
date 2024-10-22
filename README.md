@@ -11,7 +11,7 @@ Repositorio para guardar soluciones de ICPC
 | Nicolas | 2:05 | 12:00 | 30:00 | 
 | Salvador | 6:00 | 30:00 | 30:00 | 
 | Diego | 13:18 | | |
-| Santiago | | | |
+| Santiago | 25:00 | | |
 
 ## Soluciones a concursos
 
