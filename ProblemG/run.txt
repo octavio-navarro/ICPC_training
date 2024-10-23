@@ -1,0 +1,1 @@
+./compG.txt && cat TestCases/test1.txt | ./G && cat TestCases/test2.txt | ./G && cat TestCases/test3.txt | ./G  && cat TestCases/test4.txt | ./G
