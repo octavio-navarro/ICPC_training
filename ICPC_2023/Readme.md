@@ -1,4 +1,4 @@
-*[ICPC 2023 - Gran Premio](https://codeforces.com/gym/105408)*
+*[ICPC 2023 - Gran Premio](https://codeforces.com/gym/104412)*
 
 [Vjudge](https://vjudge.net/contest/664989)
 
