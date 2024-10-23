@@ -40,11 +40,6 @@ bool is_perf_sq(int n) {
     return false;
 }
 
-bool is_num(string s) {
-    return !s.empty() && find_if(s.begin(), 
-        s.end(), [](unsigned char c) { return !isdigit(c); }) == s.end();
-}
-
 int main()
 {
     // Read faster from stdin

@@ -4,7 +4,7 @@
 
 | Problema | Solucionado | Comentarios |
 | -------- | ----------- | ----------- |
-| Alaric Magic Partition | [ ] | |
+| Alaric Magic Partition | [ Mario ] | |
 | Bogo Sort Probability | [ ] | |
 | Choose Two | [ ] | |
 | Draconis Subarrays | [ ] | |
@@ -12,9 +12,9 @@
 | Fibonacci Fever | [ ] | |
 | Guessing Two Steps into the Multiverse | [ ] | |
 | How Many Groups | [ ] | |
-| Iron Fist Ketil vs King Canute | [ x ] | |
+| Iron Fist Ketil vs King Canute | [ Mario ] | |
 | JP's List of Trips | [ ] | |
-| Knockout Spell | [ x ] | |
+| Knockout Spell | [ Mario ] | |
 | ICPC Teams | [ ] | |
 | Modify the Array | [ ] | |
 | Necklace | [ ] | |
