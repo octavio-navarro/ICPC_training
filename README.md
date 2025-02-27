@@ -4,6 +4,17 @@ Repositorio para guardar soluciones de ICPC
 
 ## Leaderboard
 
+### Season 2
+
+Crea un programa que pueda buscar un número en el siguiente grafo:
+
+![Grafo](Graph.png)
+
+| Nombre | Binary search | BFS | DFS |
+|--- | --- | --- | --- |
+
+### Season 1
+
 | Nombre | Binary search | BFS | DFS |
 |--- | --- | --- | --- |
 | Tomas | 3:41 | 2:00 | 20:00 |  
