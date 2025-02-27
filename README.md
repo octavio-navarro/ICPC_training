@@ -10,8 +10,8 @@ Crea un programa que pueda buscar un número en el siguiente grafo:
 
 ![Grafo](Graph.png)
 
-| Nombre | Binary search | BFS | DFS |
-|--- | --- | --- | --- |
+| Nombre | BFS | DFS |
+|--- |  --- | --- |
 
 ### Season 1
 
