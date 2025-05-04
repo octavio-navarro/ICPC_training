@@ -25,7 +25,6 @@ void solve()
 
     for(int &e : v) cin >> e;
 
-    auto start = chrono::high_resolution_clock::now();
     cout << n << " " << x << endl;
     pVI(v);
     sVI_a(v);
@@ -33,25 +32,12 @@ void solve()
     sVI_d(v);
     pVI(v);
 
-    vector<int>::iterator r = find(v.begin(), v.end(), 2);
+    vector<int>::iterator r = find(v.begin(), v.end(), x);
 
     if(r != v.end())
-        cout << *r << endl;
+        cout << "Found number" << endl;
     else
         cout << "Not found" << endl;
-
-    auto r2 = find_if(v.begin(), v.end(), [](int n) { return n%2==0;});
-
-    if(r2 != v.end())
-        cout << *r2 << endl;
-    else
-        cout << "No even found" << endl;
-
-    auto end = chrono::high_resolution_clock::now();
-
-    auto duration = chrono::duration_cast<chrono::microseconds>(end-start);
-
-    cout << "Time elapsed: " << duration.count() << " microseconds" << endl;
 }
 
 int main(int argc, char** argv)
