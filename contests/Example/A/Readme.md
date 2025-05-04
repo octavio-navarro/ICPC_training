@@ -6,7 +6,7 @@ You are trying to sort a given set of numbers in ascending and descending order.
 
 ## Input
 
-In the first line, 2 numbers *N* and *X*, ($1 \leq N \leq 100 $, $ 1 \leq X \leq 100$) representing the size of the vector, and the number to search, respectively. The next line contains *N* numbers $n_{i}$ ($1 \leq n_{i} \leq 10$), representing the values of the set of numbers. 
+In the first line, 2 numbers *N* and *X*, ($1 \leq N \leq 100 $, $1 \leq X \leq 100$) representing the size of the vector, and the number to search, respectively. The next line contains *N* numbers $n_{i}$ ($1 \leq n_{i} \leq 10$), representing the values of the set of numbers. 
 
 ## Output
 
