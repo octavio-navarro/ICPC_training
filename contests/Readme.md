@@ -15,3 +15,5 @@ To add a solution to a given contest, you must follow the following guidelines:
     - A readme with the problem description.
     - Avoid uploading any binary files. One solution is to compile the code with the 'exe' extension, so that the gitignore ignores them.
 - Once you have the solution and the tests, create a PR to main.
+
+An example folder can be found here: [Example with problem A](./Example/A/)
