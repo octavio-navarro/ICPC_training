@@ -10,7 +10,7 @@ In the first line, 2 numbers *N* and *X*, ($ 1 \leq N \leq 100 $, $ 1 \leq X \le
 
 ## Output
 
-Outputs the numbers on the input in the first line, then the numbers of the vector in the second line. In the third line the values of the vector sorted in ascending order, and in the fourth line in descending order. The next line should print "Found number: X", if the number is part of the vector's numbers, or "Not found" otherwise. 
+Outputs the numbers *N* and *X* in the first line, then the numbers $n_{i}$ of the vector in the second line. In the third line the values of the vector sorted in ascending order, and in the fourth line in descending order. The next line should print "Found number", if the number is part of the vector's numbers, or "Not found" otherwise. 
 
 ## Sample 
 
