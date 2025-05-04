@@ -4,16 +4,16 @@ Repositorio para guardar soluciones de ICPC
 
 ## Leaderboard
 
-### Season 2
+### Season 2 - 2025
 
 Crea un programa que pueda buscar un número en el siguiente grafo:
 
-![Grafo](Graph.png)
+![Grafo](./docs/assets/images/Graph.png)
 
 | Nombre | BFS | DFS |
 |--- |  --- | --- |
 
-### Season 1
+### Season 1 - 2024
 
 | Nombre | Binary search | BFS | DFS |
 |--- | --- | --- | --- |
@@ -26,7 +26,7 @@ Crea un programa que pueda buscar un número en el siguiente grafo:
 
 ## Soluciones a concursos
 
-- [ICPC 2024 - Repechaje](./ICPC_2024/Readme.md)
-- [ICPC 2023](./ICPC_2023/Readme.md)
-- [EasyPeasy](./EasyPeasy/Readme.md)
+- [ICPC 2024 - Repechaje](./contests/ICPC_2024/Readme.md)
+- [ICPC 2023](./contests/ICPC_2023/Readme.md)
+- [EasyPeasy](./contests/EasyPeasy/Readme.md)
 
