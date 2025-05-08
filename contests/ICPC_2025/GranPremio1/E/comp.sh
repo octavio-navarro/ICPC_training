@@ -1,5 +1,5 @@
-g++ -o A.exe A.cpp -std=c++17
+g++ -o E.exe E.cpp -std=c++17
 echo "\nTest 1\n"
-cat A1.txt | ./A.exe
+cat E1.txt | ./E.exe
 echo "\nTest 2\n"
-cat A2.txt | ./A.exe
+cat E2.txt | ./E.exe
