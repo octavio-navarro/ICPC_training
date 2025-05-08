@@ -6,3 +6,4 @@
 
 | Problema | Solucionado | Comentarios |
 | -------- | ----------- | ----------- |
+| E        | Mario       |             |
