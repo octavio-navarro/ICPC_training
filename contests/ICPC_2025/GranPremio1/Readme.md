@@ -2,7 +2,7 @@
 
 *[ICPC 2025 - Gran Premio México - Primera fecha](https://codeforces.com/gym/105873)*
 
-[Vjudge]()
+[Vjudge](https://vjudge.net/contest/715896)
 
 | Problema | Solucionado | Comentarios |
 | -------- | ----------- | ----------- |
