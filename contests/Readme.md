@@ -12,8 +12,10 @@ To add a solution to a given contest, you must follow the following guidelines:
     - A cpp file named just with the letter of the problem: A.cpp, B.cpp, etc.
     - One, or several, txt files with the tests that you used on your program.
     - A txt file with the compilation line you used.
-    - A readme with the problem description.
+    - A readme with the problem description. A link to the codeforces description is enough.
     - Avoid uploading any binary files. One solution is to compile the code with the 'exe' extension, so that the gitignore ignores them.
+- Make sure that the problem is approved by an online judge before submitting the code.
+- Include a screenshot of the approval by the online judge.
 - Once you have the solution and the tests, create a PR to main.
 
 An example folder can be found here: [Example with problem A](./Example/A/)
