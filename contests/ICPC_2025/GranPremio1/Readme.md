@@ -6,4 +6,15 @@
 
 | Problema | Solucionado | Comentarios |
 | -------- | ----------- | ----------- |
-| E        | Mario       |             |
+| A  | X  |  |
+| B  |  |  |
+| C  |  |  |
+| D  | X  |  |
+| E  | X  |  |
+| F  |  |  |
+| G  |  |  |
+| H  |  |  |
+| I  | X |  |
+| J  |  |  |
+| K  |  |  |
+| L  |  |  |
