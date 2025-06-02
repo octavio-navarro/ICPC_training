@@ -2,7 +2,9 @@
 
 [Codeforces - ICPC Gran Premio México - Segunda Fecha](https://codeforces.com/gym/105216)
 
-[Vjudge]()
+[Concurso 1: F, G, E, K]()
+[Concurso 2: C, H, D, A]()
+[Concurso 3: L, J, M, I]()
 
 | Problema | Solucionado | 
 | -------- | ----------- |
